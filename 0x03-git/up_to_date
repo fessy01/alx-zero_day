@@ -1,0 +1,12 @@
+Git command used
+
+git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-zero_day.git
+git config --global user.email "your email"
+git config --global user.name 'Your name"
+git add .
+git commit -m 'commit message'
+git push
+git checkout -b branchname
+git push origin branchname
+git checkout branchname
+git pull
